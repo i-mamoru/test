@@ -1,0 +1,16 @@
+{
+  "short_name":"REACT PWA",
+  "name":"REACT_PAW",
+  "icons":[
+    {
+      "src":"/img/logo.png",
+      "type":"image/png",
+      "size":"1024x1024"
+
+    }
+  ],
+  "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
